@@ -1,5 +1,3 @@
-<div align="center">
-
 # GA-Hello
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/GA-Hello?style=plastic&color=0f0&label=Size)
@@ -12,9 +10,7 @@
 
 Hello World Github Action
 
-</div>
 
 This action can be used as a template for developing other actions more rapidly and also for learning purposes by beginners.
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
