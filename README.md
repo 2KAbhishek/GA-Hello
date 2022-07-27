@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/GA-Hello">BareMinimum</a></h1>
+<h1><a href="https://2kabhishek.github.io/GA-Hello">GA-Hello</a></h1>
 
 <a href="https://github.com/2KAbhishek/GA-Hello/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/GA-Hello?style=flat&color=eee&label="> </a>
